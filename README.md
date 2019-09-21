@@ -15,6 +15,8 @@ In this project, some of the categories picture with only several number.
 In the model, I try to fix data insufficient problem also as to overcome overfitting. 
 Furthermore, to transfer this model in some business area overcome data insufficient problem.
 
+For more model summary and output, please see Report.md and Output file.
+
 
 ## 2. Enviorment and Packages
 
