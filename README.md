@@ -13,7 +13,7 @@ For the past 40 years, most of this work has been done manually by individual sc
 In this project, some of the categories picture with only several number. 
 
 In the model, I try to fix data insufficient problem also as to overcome overfitting. 
-Furthermore, to transfer this model in some business area overcome data insufficient problem.
+Furthermore, transfer this model in some business area to overcome data insufficient problem.
 
 
 ## 2. Enviorment and Packages
