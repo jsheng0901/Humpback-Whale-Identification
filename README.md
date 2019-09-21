@@ -15,8 +15,6 @@ In this project, some of the categories picture with only several number.
 In the model, I try to fix data insufficient problem also as to overcome overfitting. 
 Furthermore, to transfer this model in some business area overcome data insufficient problem.
 
-For more model summary and output, please see Report.md and Output file.
-
 
 ## 2. Enviorment and Packages
 
@@ -37,6 +35,8 @@ First build 2 layers CNN model, each layer with conv, pooling and activation.
 Second build 3 layers CNN model, each layer with 2 convs, pooling, dropout and activation. 
 
 Further, build transfer learning model based on Resnet50 and MobileNet. Applyed ImageDataGenerator for data augmentation. 
+
+For more model summary and output, please see Report.md and Output file.
 
 
 ## 4. Repository Structure
